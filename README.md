@@ -34,6 +34,3 @@ Ensure you have the following installed:
                                     mvn spring-boot:run
    
 3. Monitor the consumed messages in the application logs.
-
-# Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
